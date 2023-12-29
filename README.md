@@ -10,10 +10,10 @@ This project is a next-based application showcasing a product listing page. It i
 ## Installation
 
 Clone the repository and install the dependencies:
-1.cd to the directory
-2.npm install
+-cd to the directory
+-npm install
 
 ## Usage
 
 To run the application:
-1.npm run dev
+-npm run dev
